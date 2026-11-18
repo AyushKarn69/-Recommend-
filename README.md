@@ -140,3 +140,9 @@ Open `pyspark_databricks_notebook/MovieRecommender.ipynb` in Databricks or Jupyt
 - **`NoSuchElementException: None.get` in `Recommend`:** the model could not be loaded. Check that `MOVIE_MODEL_PATH` points to a model that `RecommenderTrain` saved.
 - **"Error Happened when saving model!!!":** the model directory usually already exists. Delete it and train again.
 - **`StackOverflowError` during training:** make sure the checkpoint directory exists and is writable.
+
+---
+
+## Author
+
+**Akshay** — [@Akshayzzz777](https://github.com/Akshayzzz777)

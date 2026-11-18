@@ -1,0 +1,9 @@
+target/
+project/target/
+out/
+.bsp/
+.metals/
+.idea/
+*.class
+*.jar
+*.log
